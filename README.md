@@ -12,11 +12,11 @@ This is a Paint Clone application built with WinForms in Visual Studio 2022. The
 
 ## Screenshots
 
-![New Drawing](PaintScreenshots/New.png)
-![Open Image](PaintScreenshots/Open.png)
-![Resize Image](PaintScreenshots/Resize.png)
-![Save Image](PaintScreenshots/Save.png)
-![Select Image](PaintScreenshots/Select.png)
+![New Drawing](PaintScreenshot/New.png)
+![Open Image](PaintScreenshot/Open.png)
+![Resize Image](PaintScreenshot/Resize.png)
+![Save Image](PaintScreenshot/Save.png)
+![Select Image](PaintScreenshot/Select.png)
 
 ## Prerequisites
 
@@ -40,10 +40,10 @@ dotnet run
 ```
 
 2.Use the application and check their availablity
-a)drawing
-b)selection
-c)resizing
-d)accessibility for local disks(save file, open file etc)
+-drawing
+-selection
+-resizing
+-accessibility for local disks(save file, open file etc)
 
 ## Contribuion
 Contributions are welcome! Please feel free to submit a Pull Request.
