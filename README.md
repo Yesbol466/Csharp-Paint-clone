@@ -40,10 +40,10 @@ dotnet run
 ```
 
 2.Use the application and check their availablity
--drawing
--selection
--resizing
--accessibility for local disks(save file, open file etc)
+- drawing
+- selection
+- resizing
+- accessibility for local disks(save file, open file etc)
 
 ## Contribuion
 Contributions are welcome! Please feel free to submit a Pull Request.
